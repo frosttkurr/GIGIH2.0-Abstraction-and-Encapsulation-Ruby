@@ -1,2 +1,2 @@
 # Generasi GIGIH 2.0
-Learn Abstraction and Encapsulation with Ruby
+Learnt implementation of Abstraction and Encapsulation with Ruby
